@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">my calculator</string>
+    <string name="etvanswer">Answer</string>
+    <string name="edtfnum">first number</string>
+</resources>
